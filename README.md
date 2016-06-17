@@ -1,6 +1,0 @@
-# hello-world
-Hello repository to test github
-
-This is what I write to see ....
-
-What about if i delete something in this pull that is not seen in other ...
